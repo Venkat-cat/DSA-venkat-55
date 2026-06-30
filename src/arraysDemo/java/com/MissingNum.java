@@ -8,7 +8,7 @@ public class MissingNum {
 			if(arr[i+1]!=arr[i]+1) {
 				misval=arr[i]+1;
 				System.err.println(misval);
-				return;
+				return;s
 				
 			}
 			
