@@ -17,8 +17,12 @@ public class ArrayPractice4 {
 				if(count>=arr.length/2) {
 					value=arr[i];
 					System.out.println("reapeated max element :"+value);
+<<<<<<< HEAD
 					return ;
 					
+=======
+					return;//to return statement at one time
+>>>>>>> da42f44 (new change)
 			
 					
 					
